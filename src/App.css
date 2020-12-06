@@ -6,8 +6,8 @@
 body {
 font-family: Arial, Helvetica, sans-serif;
 height: 100vh;
-  /* background:linear-gradient(rgba(114, 114, 114, 0.301),rgba(85, 85, 85, 0.459),rgba(22, 21, 21, 0.74)), */
-  /* url("./BLEND.jpg"); */
+  background:linear-gradient(rgba(114, 114, 114, 0.301),rgba(85, 85, 85, 0.459),rgba(22, 21, 21, 0.74)),
+  url("./BLEND.jpg");
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -16,13 +16,13 @@ height: 100vh;
 }
 .containers{
   height: 100vh;
-  width: 100;
-   background:linear-gradient(rgba(114, 114, 114, 0.301),rgba(85, 85, 85, 0.459),rgba(22, 21, 21, 0.74)), 
-  url("./BLEND.jpg");
+  width: 100%;
+  background:linear-gradient(rgba(66, 61, 61, 0.795),rgba(53, 48, 48, 0.76),rgba(112, 100, 100, 0.582)),
+  url('./blend3.jpg') ;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  /* background-repeat: no-repeat; */
+  background-repeat: no-repeat;
   
 }
   /* background-position: bottom; */
@@ -172,10 +172,6 @@ button{
 
 }
 @media (max-width:767px) {
-
-  /* .container{
-    width: 100%;
-  } */
 
   .ham{
     display: block;
