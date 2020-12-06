@@ -176,7 +176,7 @@ button{
  
 .containers{
   width: 485px;
-  overflow-x: hidden;
+  overflow: hidden;
 }
   .ham{
     display: block;
