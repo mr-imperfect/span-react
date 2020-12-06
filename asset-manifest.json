@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/span-react/static/css/main.ae70e8ef.chunk.css",
-    "main.js": "/span-react/static/js/main.1c4e202c.chunk.js",
-    "main.js.map": "/span-react/static/js/main.1c4e202c.chunk.js.map",
+    "main.css": "/span-react/static/css/main.4a7428a1.chunk.css",
+    "main.js": "/span-react/static/js/main.07a8fb17.chunk.js",
+    "main.js.map": "/span-react/static/js/main.07a8fb17.chunk.js.map",
     "runtime-main.js": "/span-react/static/js/runtime-main.b712e9c8.js",
     "runtime-main.js.map": "/span-react/static/js/runtime-main.b712e9c8.js.map",
     "static/js/2.14427781.chunk.js": "/span-react/static/js/2.14427781.chunk.js",
     "static/js/2.14427781.chunk.js.map": "/span-react/static/js/2.14427781.chunk.js.map",
     "index.html": "/span-react/index.html",
-    "static/css/main.ae70e8ef.chunk.css.map": "/span-react/static/css/main.ae70e8ef.chunk.css.map",
+    "static/css/main.4a7428a1.chunk.css.map": "/span-react/static/css/main.4a7428a1.chunk.css.map",
     "static/js/2.14427781.chunk.js.LICENSE.txt": "/span-react/static/js/2.14427781.chunk.js.LICENSE.txt",
     "static/media/App.css": "/span-react/static/media/section2.d257ad41.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.b712e9c8.js",
     "static/js/2.14427781.chunk.js",
-    "static/css/main.ae70e8ef.chunk.css",
-    "static/js/main.1c4e202c.chunk.js"
+    "static/css/main.4a7428a1.chunk.css",
+    "static/js/main.07a8fb17.chunk.js"
   ]
 }
