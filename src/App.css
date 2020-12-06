@@ -173,6 +173,10 @@ button{
 }
 @media (max-width:767px) {
 
+  .containers{
+    outline: 3px solid red;
+  }
+
   .ham{
     display: block;
  position: absolute;
