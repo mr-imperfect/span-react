@@ -1,0 +1,22 @@
+.footer{
+    margin-top: 200px;
+    height: 300px;
+    color: rgb(27, 209, 21);
+    text-align: center;
+display: flex;
+justify-content: center;
+align-items: flex-end;
+font-size: 25px;
+margin-bottom: 50px;
+}
+@media(max-width:767px){
+    .footer{
+        height: 330px;
+       /* background-color: #fff; */
+       margin-bottom: -300px;
+      
+    }
+    .footer h3{
+        font-size: 20px;
+    }
+}

@@ -1,0 +1,23 @@
+.cardimg{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+}
+.card{
+    padding-left: 50px;
+    padding-right: 60px;
+}
+.main{
+    color: white;
+    text-align: center;
+}
+.price{
+    color: rgb(27, 209, 21);
+    text-align: center;
+    font-size: 30px;
+}
+@media(max-width:767px){
+    .card{
+        margin-bottom: 50px;
+    }
+}
