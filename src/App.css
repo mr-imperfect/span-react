@@ -181,7 +181,7 @@ button{
   .ham{
     display: block;
  position: absolute;
- right: 30px;
+ right: 60px;
  font-size: 25px;
  color: rgb(27, 209, 21);
   }
