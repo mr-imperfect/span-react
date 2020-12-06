@@ -181,9 +181,12 @@ button{
   .ham{
     display: block;
  position: absolute;
- right: 60px;
+ right: 30px;
  font-size: 25px;
  color: rgb(27, 209, 21);
+  }
+  .containertwo{
+    margin-top: 250px;
   }
   nav{
     display: none;
