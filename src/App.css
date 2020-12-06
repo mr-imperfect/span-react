@@ -14,9 +14,9 @@ height: 100vh;
   background-position: top;
   
 }
-.container{
+.containers{
   height: 100vh;
-  width: 100px;
+  width: 100;
    background:linear-gradient(rgba(114, 114, 114, 0.301),rgba(85, 85, 85, 0.459),rgba(22, 21, 21, 0.74)), 
   url("./BLEND.jpg");
   background-size: cover;
