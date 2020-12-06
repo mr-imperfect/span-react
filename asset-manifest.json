@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/span-react/static/css/main.83ac8b67.chunk.css",
+    "main.css": "/span-react/static/css/main.df6de06e.chunk.css",
     "main.js": "/span-react/static/js/main.1a50b97a.chunk.js",
     "main.js.map": "/span-react/static/js/main.1a50b97a.chunk.js.map",
     "runtime-main.js": "/span-react/static/js/runtime-main.b712e9c8.js",
@@ -8,14 +8,14 @@
     "static/js/2.14427781.chunk.js": "/span-react/static/js/2.14427781.chunk.js",
     "static/js/2.14427781.chunk.js.map": "/span-react/static/js/2.14427781.chunk.js.map",
     "index.html": "/span-react/index.html",
-    "static/css/main.83ac8b67.chunk.css.map": "/span-react/static/css/main.83ac8b67.chunk.css.map",
+    "static/css/main.df6de06e.chunk.css.map": "/span-react/static/css/main.df6de06e.chunk.css.map",
     "static/js/2.14427781.chunk.js.LICENSE.txt": "/span-react/static/js/2.14427781.chunk.js.LICENSE.txt",
     "static/media/App.css": "/span-react/static/media/section2.d257ad41.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.b712e9c8.js",
     "static/js/2.14427781.chunk.js",
-    "static/css/main.83ac8b67.chunk.css",
+    "static/css/main.df6de06e.chunk.css",
     "static/js/main.1a50b97a.chunk.js"
   ]
 }
