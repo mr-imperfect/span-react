@@ -10,7 +10,7 @@ class App extends Component{
 
 
     return(
-    <div className="containerss">
+    <div className="containers">
          
 
         <div className="inner-container">
